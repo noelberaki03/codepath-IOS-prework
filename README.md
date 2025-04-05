@@ -7,8 +7,6 @@ also allows a user to change the color of the background.
 
 Time spent: 2 hours spent in total (including downloading Xcode and necessary simulators)
 
-App walkthrough: ![](https://imgur.com/a/rE0mKeX.gif)
-![](https://i.imgur.com/JL1snRo.gif)
 ## Required Features
 
 The following **required** functionality is completed:
@@ -47,6 +45,9 @@ Favorite Applications and two/three of their features I really appreciate:
 Describe any challenges encountered while building the app.
 - I unknowingly added constraints on some of the objects which messed with the layout.
 Took me a little too long to realize where the bugs were.
+
+## App walkthrough: 
+![](https://imgur.com/a/rE0mKeX.gif)
 
 ## License
 
