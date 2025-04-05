@@ -15,8 +15,8 @@ The following **required** functionality is completed:
 - [X] Tapping the button changes the screen color to a random color
 
 The following **optional** functionality is completed:
-- [X] Asks for user input and outputs user input
-- [X] Changes the color of the labels based the background color (black or white)
+- [X] Asks for user input and outputs it
+- [X] Changes the color of the labels based on the background color (black or white)
 
 ## App Brainstorming (Step 4)
 
