@@ -11,8 +11,12 @@ Time spent: 2 hours spent in total (including downloading Xcode and necessary si
 
 The following **required** functionality is completed:
 
-- [✓] Users are see a screen with three labels and a button
-- [✓] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
+
+The following **optional** functionality is completed:
+- [X] Asks for user input and outputs user input
+- [X] Changes the color of the labels based the background color (black or white)
 
 ## App Brainstorming (Step 4)
 
@@ -44,7 +48,7 @@ Took me a little too long to realize where the bugs were.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [Noel Beraki]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
