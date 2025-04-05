@@ -47,7 +47,7 @@ Describe any challenges encountered while building the app.
 Took me a little too long to realize where the bugs were.
 
 ## App walkthrough: 
-![](https://imgur.com/a/rE0mKeX.gif)
+![](https://i.imgur.com/a/rE0mKeX.gif)
 
 ## License
 
