@@ -5,7 +5,7 @@ Submitted by: Noel Beraki
 IOS-prework is an app that asks a user some questions about their name, school, and occupation and
 also allows a user to change the color of the background.
 
-Time spent: 2 hours spent in total (including downloading Xcode and necessary simulators)
+Time spent: 2 hours spent in total 
 
 ## Required Features
 
