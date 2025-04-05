@@ -7,6 +7,8 @@ also allows a user to change the color of the background.
 
 Time spent: 2 hours spent in total (including downloading Xcode and necessary simulators)
 
+App walkthrough: ![](https://imgur.com/a/rE0mKeX.gif)
+
 ## Required Features
 
 The following **required** functionality is completed:
