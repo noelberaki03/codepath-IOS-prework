@@ -45,9 +45,10 @@ Favorite Applications and two/three of their features I really appreciate:
 Describe any challenges encountered while building the app.
 - I unknowingly added constraints on some of the objects which messed with the layout.
 Took me a little too long to realize where the bugs were.
+- I couldn't embed the app walkthrough in this README so I'm instead providing the link.
 
 ## App walkthrough: 
-![](https://i.imgur.com/a/rE0mKeX.gif)
+https://imgur.com/a/rE0mKeX.gif 
 
 ## License
 
