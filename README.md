@@ -23,13 +23,13 @@ The following **optional** functionality is completed:
 Favorite Applications and two/three of their features I really appreciate:
 
 1. Entertainment app: Youtube
-    * Feature 1: Double tapping to skip forward or backward.
+    * Feature 1: Double tapping to skip forward or backward 10 seconds.
     * Feature 2: Picture-in-picture allowing me to watch a video in a small, movable window
                  while on other apps.
 
 2. Entertainment app: NBA
-    * Feature 1: Notifications about my favorite team updates
-    * Feature 2: Quick, real-time updates of NBA news
+    * Feature 1: Notifications about my favorite teams updates.
+    * Feature 2: Quick, real-time updates of NBA news.
     * Feature 3: Provides pretty much any statistic I may be interested in, in a nice, clean UI.
 
 3. Entertainment app: Instagram
@@ -37,8 +37,8 @@ Favorite Applications and two/three of their features I really appreciate:
     * Feature 2: Reels
 
 4. Video game app: My Block
-    * Feature 1: Has a toggle for game vibration and music
-    * Feature 2: Dual game modes (normal and challenges)
+    * Feature 1: Has a toggle for game vibration and music.
+    * Feature 2: Dual game modes (normal and challenges).
 
 ## Notes
 
